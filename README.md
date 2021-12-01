@@ -1,4 +1,4 @@
-## Tecnologías de la Información
+# Tecnologías de la Información
 
 Repositorio para las prácticas de la asignatura de Tecnologías de la Información - **4º Año de carrera**
 - Curso 2021-2022
