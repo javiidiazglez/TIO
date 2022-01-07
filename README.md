@@ -14,3 +14,5 @@ Repositorio para las prácticas de la asignatura de Tecnologías de la Informaci
 - #### [Práctica 4](https://github.com/alu0101128894/TIO/tree/main/Pr%C3%A1ctica%204.%20Tecnolog%C3%ADas%20para%20el%20Business%20Intelligence). Tecnologías para el Business Intelligence
 
 - #### [Práctica 5](). Trabajos monográficos de ERP y CRM
+
+- #### [Práctica 6](). Tecnología de visualización, minería de textos y aprendizaje automático
