@@ -16,3 +16,5 @@ Repositorio para las prácticas de la asignatura de Tecnologías de la Informaci
 - #### [Práctica 5](https://github.com/alu0101128894/TIO/tree/main/Pr%C3%A1ctica%205.%20Trabajos%20monogr%C3%A1ficos%20de%20ERP%20y%20CRM). Trabajos monográficos de ERP y CRM
 
 - #### [Práctica 6](https://github.com/alu0101128894/TIO/tree/main/Pr%C3%A1ctica%206.%20Tecnolog%C3%ADa%20de%20visualizaci%C3%B3n%2C%20miner%C3%ADa%20de%20textos%20y%20aprendizaje%20autom%C3%A1tico). Tecnología de visualización, minería de textos y aprendizaje automático
+
+- #### [Proyecto Final](https://github.com/alu0101128894/TIO/tree/main/Proyecto%20Final)
